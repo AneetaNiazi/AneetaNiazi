@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AneetaNiazi
-- 👀 I’m interested in Natural Language Processing,Image and Video Processing, Speech Processing, Machine Learning
+- 👀 I’m interested in Natural Language Processing, Image and Video Processing, Speech Processing, Machine Learning
 - 🌱 I’m currently learning Generative AI with Large Language Models and Kubernetes
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 I can be reached by email: aneeta.niazi@gmail.com
